@@ -1,20 +1,18 @@
 ---
-title: 'Accounting'
+title: 'Adversary Emulation'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-1.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Accounting'
-heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
+heroHeading: 'Adversary Emulation'
+heroSubHeading: '"Think like a bad guy, act like a good guy."'
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Offensive security audit
 
-## Ne verba patulosque numen vix libet
+##  Perimeter and physical security auditing
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
@@ -32,17 +30,14 @@ dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
 Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
 esse iam feres mortis Plurima.
 
-## Postquam tamen
+## Social Engineering
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
+Our social engineering services include:
+- OSINT public information gathering
+- Vishing services
+- Phishing, Spear phishing, Whaling services  
+- Security Policy Success Auditing
+-
 - Adde leviter faciam tetigisse regunt concava in
 
 Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
